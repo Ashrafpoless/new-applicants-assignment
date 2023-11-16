@@ -7,7 +7,8 @@ the assignment.
 
 ## Assignment Details
 
-Your task is to create a simple calculator using HTML, CSS, and JavaScript. The HTML structure is already
+Your task is to create a simple calculator using HTML, CSS, and JavaScript.
+ The HTML structure is already
 provided in the starter files. You will need to write the CSS to style the calculator and the JavaScript
 to make it functional.
 
@@ -24,35 +25,54 @@ to get started:
 3. **Visual Studio Code:** Install Visual Studio Code, a text editor that will help you write your code.
    You can download it from [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
-4. **Live Server Extension:** Install the Live Server extension for Visual Studio Code. Once installed,
-   right-click on your `index.html` file and select "Open with Live Server" to preview your calculator in
+4. **Live Server Extension:** Install the Live Server
+ extension for Visual Studio Code.
+ Once installed,
+   right-click on your `index.html` file and select
+    "Open with Live Server" to preview
+    your calculator in
    your browser. Please use Google Chrome for the best experience
 
-5. **GitHub Account:** If you don't already have a GitHub account, go to [www.github.com](https://www.github.com)
-   and create one. Please use your real name as your GitHub username, all in lowercase with no spaces (e.g., `samirm00`).
+5. **GitHub Account:** If you don't already have a GitHub account,
+ go to [www.github.com](https://www.github.com)
+   and create one. Please use your real name as your GitHub username,
+    all in lowercase with no spaces (e.g., `samirm00`).
 
-6. **Fork the Repository:** Fork the assignment repository by clicking on `Fork`, then you will have your own copy of the repo on your GitHub account.
-7. **Clone your repo from your GitHub account:** Clone the assignment repository by clicking on `Code`, then copy `HTTPS` link
+6. **Fork the Repository:** Fork the assignment repository by clicking on `Fork`,
+then you will have your own copy of the repo on your GitHub account.
+7. **Clone your repo from your GitHub account:** Clone the assignment repository by clicking on `Code`,
+ then copy `HTTPS` link
 8. **Open your terminal:** Open your Terminal or Git bash on Windows and type
 
 ```bash
 git clone <HTTPS link>
 ```
 
-9. **Open your cloned repo in VS code** : open the cloned repo in VS code.
-10. **Open Terminal in VS Code:** Open Visual Studio Code and click on "Terminal," then choose "New Terminal."
-11. **Install Dependencies:** Install the project dependencies by running the following command inside your project folder:
+9. **Open your cloned repo in VS code** :
+open the cloned repo in VS code.
+10. **Open Terminal in VS Code:**
+ Open Visual Studio
+ Code and click on
+"Terminal," then choose "New Terminal."
+11. **Install Dependencies:**
+ Install
+ the
+project dependencies by
+running the following command
+inside your project folder:
 
-    ```bash
-    npm install
-    ```
+ ```bash
+ npm install
+ ```
 
 ## Write your code
 
 1. Writing Your Code
 
-   This is where you will implement your calculator. Open the project in Visual Studio Code and start
-   writing your HTML, CSS, and JavaScript code in the provided files. WHEN YOU ARE DONE WITH YOUR CODE, then move to the next step
+   This is where you will implement your calculator.
+    Open the project in Visual Studio Code and start
+   writing your HTML, CSS, and JavaScript code in the provided files.
+    WHEN YOU ARE DONE WITH YOUR CODE, then move to the next step
 
 2. Code Formatting
 
